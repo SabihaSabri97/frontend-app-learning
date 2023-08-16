@@ -22,7 +22,7 @@ const datesCheckpoint = {
 const outlineCheckpoint = {
   body: <FormattedMessage
     id="tours.outlineCheckpoint.body"
-    defaultMessage="You can explore sections of the course using the outline below."
+    defaultMessage="Sabiha Sabri!!!"
   />,
   placement: 'top',
   target: '#courseHome-outline',
